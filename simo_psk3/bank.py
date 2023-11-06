@@ -1,5 +1,6 @@
 from datetime import datetime
 
+
 account_balance = 0.0
 user_details = {'name': 'Test', 'acc_no': '123'}
 
